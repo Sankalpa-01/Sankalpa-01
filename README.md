@@ -63,3 +63,13 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/matlab.svg" alt="MATLAB" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpa-01&show_icons=true&theme=radical&locale=en" alt="sankalpa-01" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpa-01&theme=radical" alt="sankalpa-01" />
+</p>
