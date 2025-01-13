@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sankalpa</h1>
 <h3 align="center">An aspiring software developer and tech enthusiast</h3>
 
-<p align="left"> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&size=24&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Tech+Enthusiast;Competitive+Programmer" />
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sankalpa-01&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpa-01" />
 </p>
 
@@ -9,24 +13,30 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++, Backend Development**
 
-- 💬 Ask me about **C++, Python, or FrontEnd Web Development**
+- 💬 Ask me about **C++, Python, FrontEnd Web Development, or Competitive Programming**
+
+- 🏆 Recent Achievements:
+  - Completed **100 days streak on CodeChef**
+  - Solved **500+ problems on CodeChef** and **200+ problems on Striver's DSA A2Z sheet**
+  - Earned **Modern C++ Certification** from NPTEL, IIT Kharagpur
+  - Completed a MATLAB course from MathWorks
 
 - 📫 How to reach me **sankalpaanda@gmail.com**
 
-- ⚡ Fun fact **I enjoy solving problems on competitive programming platforms!**
+- ⚡ Fun fact: **I enjoy solving problems on competitive programming platforms and exploring modern C++!**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank">
-    <img align="center" src="https://www.linkedin.com/in/sankalpa-panda-807b78274/" alt="yourlinkedin" height="30" width="40" />
+  <a href="https://linkedin.com/in/sankalpa-panda-807b78274" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/yourcodechef" target="blank">
-    <img align="center" src="https://www.codechef.com/users/sankalpa01" alt="yourcodechef" height="30" width="40" />
+  <a href="https://www.codechef.com/users/sankalpa01" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/yourleetcode" target="blank">
-    <img align="center" src="https://leetcode.com/u/Sankalpa_01/" alt="yourleetcode" height="30" width="40" />
+  <a href="https://leetcode.com/Sankalpa_01/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
@@ -34,32 +44,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/matlab.svg" alt="matlab" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/matlab.svg" alt="MATLAB" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpa-01&show_icons=true&locale=en" alt="sankalpa-01" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpa-01&" alt="sankalpa-01" />
 </p>
