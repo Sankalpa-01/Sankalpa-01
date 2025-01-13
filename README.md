@@ -30,13 +30,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sankalpa-panda-807b78274" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/sankalpa01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/Sankalpa_01/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
@@ -63,16 +63,3 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/matlab.svg" alt="MATLAB" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpa-01&show_icons=true&theme=radical&locale=en" alt="sankalpa-01" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpa-01&theme=radical" alt="sankalpa-01" />
-</p>
-
----
-
