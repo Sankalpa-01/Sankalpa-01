@@ -17,7 +17,7 @@
 
 - 🏆 Recent Achievements:
   - Completed **100 days streak on CodeChef**
-  - Solved **500+ problems on CodeChef** and **200+ problems on Striver's DSA A2Z sheet**
+  - Solved **500+ problems on CodeChef** and **250+ problems on LeetCode**
   - Earned **Modern C++ Certification** from NPTEL, IIT Kharagpur
   - Completed a MATLAB course from MathWorks
 
