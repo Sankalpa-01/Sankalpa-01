@@ -11,15 +11,13 @@
 
 - 🔭 I’m currently working on **[BinaryTreeTraversals Library](https://github.com/Sankalpa-01/BinaryTreeTraversals_library)**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms in C++, Backend Development**
-
-- 💬 Ask me about **C++, Python, FrontEnd Web Development, or Competitive Programming**
+- 💬 Ask me about **C++, Python, MERN Stack Web Development, or Competitive Programming**
 
 - 🏆 Recent Achievements:
-  - Completed **100 days streak on CodeChef**
-  - Solved **500+ problems on CodeChef** and **250+ problems on LeetCode**
-  - Earned **Modern C++ Certification** from NPTEL, IIT Kharagpur
-  - Completed a MATLAB course from MathWorks
+  - Completed **100 days streak on CodeChef**.
+  - Solved **500+ problems on CodeChef** and **300+ problems on LeetCode**.
+  - Earned **Modern C++ Certification**, **Database Management System** from NPTEL, IIT Kharagpur.
+  - Completed a MATLAB course from MathWorks.
 
 - 📫 How to reach me **sankalpaanda@gmail.com**
 
