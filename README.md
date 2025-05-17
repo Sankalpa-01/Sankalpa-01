@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=sankalpa-01&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpa-01" />
 </p>
 
-- 🔭 I’m currently working on **[BinaryTreeTraversals Library](https://github.com/Sankalpa-01/BinaryTreeTraversals_library)**
+- 🔭 I’m currently working at **Future Interns as a Full-Stack Developer Intern**
 
 - 💬 Ask me about **C++, Python, MERN Stack Web Development, or Competitive Programming**
 
@@ -58,3 +58,5 @@
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 </p>
+
+<p>Take a look at my portfolio to see my latest projects and design experiments: <a href="https://portfolio-website-rose-six-68.vercel.app" /></p>
