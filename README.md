@@ -14,49 +14,13 @@
 - 💬 Ask me about **C++, Python, MERN Stack Web Development, or Competitive Programming**
 
 - 🏆 Recent Achievements:
-  - Completed **100 days streak on CodeChef**.
-  - Solved **500+ problems on CodeChef** and **300+ problems on LeetCode**.
-  - Earned **Modern C++ Certification**, **Database Management System** from NPTEL, IIT Kharagpur.
-  - Completed a MATLAB course from MathWorks.
+  - Completed **100 days streak on CodeChef**
+  - Solved **500+ problems on CodeChef** and **300+ problems on LeetCode**
+  - Earned **Modern C++ Certification**, **DBMS Certification** from NPTEL, IIT Kharagpur
+  - Completed a MATLAB course from MathWorks
+
+🌐 **Portfolio**: [![Visit](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolio-website-rose-six-68.vercel.app)
 
 - 📫 How to reach me **sankalpaanda@gmail.com**
 
 - ⚡ Fun fact: **I enjoy solving problems on competitive programming platforms and exploring modern C++!**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sankalpa-panda-807b78274" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/sankalpa01" target="blank">
-    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/Sankalpa_01/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
-
-<p>Take a look at my portfolio to see my latest projects and design experiments: <a href="https://portfolio-website-rose-six-68.vercel.app" /></p>
