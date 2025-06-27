@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=sankalpa-01&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpa-01" />
 </p>
 
-- 🔭 I’m currently working at **Future Interns as a Full-Stack Developer Intern**
+- 🔭 I’m currently working at **Airace Technologies as a Software Developer Intern**
 
 - 💬 Ask me about **C++, Python, MERN Stack Web Development, or Competitive Programming**
 
