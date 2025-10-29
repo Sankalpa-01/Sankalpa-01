@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sankalpa</h1>
-<h3 align="center">An aspiring software developer and tech enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&size=24&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Tech+Enthusiast;Competitive+Programmer" />
