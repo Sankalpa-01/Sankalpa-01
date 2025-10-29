@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I have worked at **Teachbetter.ai as a Backend Developer Intern**
-- - 🔭 I have worked at **Airace Technologies as a Software Developer Intern**
+- 🔭 I have worked at **Airace Technologies as a Software Developer Intern**
 
 - 💬 Ask me about **C++, Python, Full Stack Web Development, or Competitive Programming**
 
