@@ -15,7 +15,7 @@
 
 - 🏆 Recent Achievements:
   - Secured **2nd Position in Hackfest'25(IIT(ISM) DHANBAD) in GoFloww Problem Statement**
-  - Solved **500+ problems on CodeChef** and **400+ problems on LeetCode**
+  - Solved **500+ problems on CodeChef** and **600+ problems on LeetCode**
   - Earned **Modern C++ Certification**, **DBMS Certification** from NPTEL, IIT Kharagpur
   - Completed **100 days streak on CodeChef**
   - Completed a MATLAB course from MathWorks
