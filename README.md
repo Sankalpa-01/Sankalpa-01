@@ -11,7 +11,7 @@
 - 🔭 I have worked at **Teachbetter.ai as a Backend Developer Intern**
 - 🔭 I have worked at **Airace Technologies as a Software Developer Intern**
 
-- 💬 Ask me about **C++, Python, Full Stack Web Development, or Competitive Programming**
+- 💬 Ask me about **C++, Python, Full Stack Web Development, Machine Learning or Competitive Programming**
 
 - 🏆 Recent Achievements:
   - Secured **2nd Position in Hackfest'25(IIT(ISM) DHANBAD) in GoFloww Problem Statement**
